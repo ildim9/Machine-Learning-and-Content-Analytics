@@ -194,5 +194,3 @@ The calling of the functions from the two above mentioned files (functions.py ,s
 
 Ilias Dimos (f2822102) [GitHub Profile](https://github.com/ildim9) </br>
 Charilaos Petrakogiannis (f2822112) [GitHub Profile](https://github.com/CharilaosPetrakogiannis) </br>
-Ioannis Triantafyllakis (f2822115) [GitHub Profile](https://github.com/Ioannis-Triantafyllakis) </br>
-Nikolaos Tsekas (f2822116) [GitHub Profile](https://github.com/nicktsekas) </br>
